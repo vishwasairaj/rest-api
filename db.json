@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "name": "vishwa",
+            "password": "password1",
+            "profession": "business man",
+            "id": 101
+        },
+        {
+            "name": "harish",
+            "password": "password2",
+            "profession": "sw engineer",
+            "id": 102
+        },
+        {
+            "name": "anushka",
+            "password": "password3",
+            "profession": "actress",
+            "id": 103
+        }
+    ],
+    "address": [
+        {
+        
+                "name": "vinnu",
+                "houseNo": "1-10-41",
+                "area": "kalanagar"
+
+        },
+        {
+            
+                "name": "balayya",
+                "houseNo": "5-1-31/A",
+                "area": "jubleehils"
+            
+        },
+        {
+            
+                "name": "harish",
+                "houseNo": "1-10-57",
+                "area": "ramnagar"
+            
+        }
+    ]
+    
+}
